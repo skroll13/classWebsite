@@ -1,0 +1,33 @@
+.bg-black{
+    background-color: black;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-lightGrey{
+    background-color: lightgrey;
+}
+.ps-light{
+    background-color: white;
+    width: 100;
+}
+.ps-dark{
+    background-color: darkgrey;
+    height: 550px;
+    width: 100;
+}
+.text-white{
+    color: white;
+}
+
+.parrallax{
+    background-image: url(https://www.sunnysidecircus.com/wp-content/uploads/2019/03/Banh_Mi_Sandwich_fullwidth.jpg;)
+    min-height: 700px;
+
+    /* create parrallax scrolling effect */
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
